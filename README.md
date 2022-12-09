@@ -3,7 +3,7 @@ Software Engineer<br><br>
 Frontend: Typescript | React | Ember | Nextjs | GraphQL<br><br>
 Backend: Docker<br><br>
 Dev-Ops: Github Actions | Netlify | Jenkins <br><br>
-🌎 Traveler & 🏋️‍♂️ Athlete
+🌎 Traveler 🏋️‍♂️ Athlete
 
 <h2>My values</h2>
 👐 Teamwork makes everyone stronger<br><br>
