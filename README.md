@@ -1,8 +1,8 @@
 # Michael - @MichaelVanhoutte1
 Software Engineer<br><br>
-Frontend: Typescript | React | Ember | Nextjs | GraphQL<br><br>
-Backend: Docker<br><br>
-Dev-Ops: Github Actions | Netlify | Jenkins <br><br>
+Frontend: HTML | CSS | SaSS | Styled-Components | Typescript | React | Redux | Gatsby | Next.js<br><br>
+Backend: GraphQL | Docker | Firebase<br><br>
+Dev-Ops: AWS | Netlify | Jenkins | Github Actions <br><br>
 🌎 Traveler 🏋️‍♂️ Athlete
 
 <h2>My values</h2>
